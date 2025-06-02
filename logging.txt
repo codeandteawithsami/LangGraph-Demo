@@ -1,0 +1,13 @@
+Your Conersation Log:
+
+
+Samiullah Saleem: hey
+AI: Hello! How can I assist you today?
+
+Samiullah Saleem: My name is samiullah saleem my DOB is 8 11 2002
+AI: Nice to meet you, Samiullah Saleem! If there's anything specific you'd like to discuss or any questions you have, feel free to let me know.
+
+Samiullah Saleem: what is my DOB
+AI: Your date of birth is November 8, 2002. If you have any other questions or need assistance, feel free to ask!
+
+End of conversation
